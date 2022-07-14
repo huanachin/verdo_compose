@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Verdo</string>
+    <string name="app_description"><![CDATA[The best grocery ordering & delivery app of the century]]></string>
+    <string name="next">Next</string>
+    <string name="sing_into_your_account">Sign in into your account</string>
+    <string name="facebook">Facebook</string>
+    <string name="google">Google</string>
+    <string name="sign_up">Sign up</string>
+    <string name="dont_have_an_account">Don\'t have an account?</string>
+    <string name="or_continue_with">Or continue with</string>
+    <string name="forgot_password">Forgot the password</string>
+</resources>
